@@ -11,4 +11,4 @@ Linux is a command line operating system based on unix. The first release of the
 | cd | Change directory |
 | cat | Concatenate file |
 | pwd | Print current working directory |
-
+|find | Search current working directory by default, if directory is not defined, and all of it's sub-directories |
